@@ -1,0 +1,15 @@
+test_collections (test_modules.TestModuleWrappers.test_collections) ... ok
+test_datetime (test_modules.TestModuleWrappers.test_datetime) ... ok
+test_itertools (test_modules.TestModuleWrappers.test_itertools) ... ok
+test_json (test_modules.TestModuleWrappers.test_json) ... ok
+test_math (test_modules.TestModuleWrappers.test_math) ... ok
+test_os (test_modules.TestModuleWrappers.test_os) ... ok
+test_pathlib (test_modules.TestModuleWrappers.test_pathlib) ... ok
+test_random (test_modules.TestModuleWrappers.test_random) ... ok
+test_re (test_modules.TestModuleWrappers.test_re) ... ok
+test_statistics (test_modules.TestModuleWrappers.test_statistics) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.002s
+
+OK

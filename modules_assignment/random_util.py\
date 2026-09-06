@@ -1,0 +1,11 @@
+"""
+Demonstrates random.shuffle from the random module.
+Purpose: Randomly shuffles the elements of a list in-place.
+"""
+import random
+
+def shuffle_list_copy(items: list) -> list:
+    """Returns a new list with elements randomly shuffled."""
+    shuffled = items.copy()
+    random.shuffle(shuffled)
+    return shuffled
